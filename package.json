@@ -1,0 +1,12 @@
+{
+    "name": "stream-tool",
+    "version": "0.0.0",
+    "scripts": {},
+    "dependencies": {
+        "highland": "^2.13.4",
+        "knex": "^0.17.0-next3",
+        "mysql": "^2.17.1",
+        "yargs": "^13.2.2"
+    },
+    "devDependencies": {}
+}
