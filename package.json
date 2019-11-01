@@ -4,7 +4,7 @@
     "scripts": {},
     "dependencies": {
         "highland": "^2.13.4",
-        "knex": "^0.17.0-next3",
+        "knex": "^0.20.1",
         "mysql": "^2.17.1",
         "yargs": "^13.2.2"
     },
